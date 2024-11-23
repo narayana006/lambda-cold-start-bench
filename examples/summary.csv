@@ -1,0 +1,4 @@
+label,memory_size_mb,invocations,cold_starts,init_min_ms,init_mean_ms,init_p50_ms,init_p90_ms,init_p99_ms,init_max_ms,cold_duration_p50_ms,cold_duration_p90_ms,cold_billed_mean_ms,warm_invocations,warm_duration_p50_ms,warm_duration_p90_ms,warm_billed_mean_ms,max_memory_used_mb
+nodejs22.x-256mb,256,48,12,169.55,222.76,225.82,247.33,292.81,298.40,27.39,36.71,30.42,36,8.31,16.34,10.39,75
+python3.13-1024mb,1024,48,12,153.16,182.43,174.84,194.51,252.35,259.38,9.45,10.79,9.92,36,2.37,6.39,3.56,53
+python3.13-256mb,256,48,12,163.56,188.45,172.51,224.74,274.68,280.66,22.70,28.69,23.33,36,6.84,19.19,9.50,52
